@@ -15,19 +15,19 @@
 ## 🎬 **Démonstrations visuelles**
 
 ### 1️⃣ **Tableau de bord dynamique**
-![Tableau de bord](./Gifs/Tableau de Bord.gif)
+![Tableau de bord](./Gifs/Tableau_de_Bord.gif)
 *Filtres interactifs pour analyser les performances par site (DCRC EST, Nancy, Mulhouse, etc.). Les barres colorées (rouge/jaune/vert) permettent une lecture immédiate des écarts par rapport aux objectifs.*
 
 ---
 
 ### 2️⃣ **Reporting à la demande**
-![Reporting](lien_vers_ton_gif_reporting.gif)
+![Reporting](./Gifs/Reporting_à_la_Demande.gif
 *Sélection des critères (période, site, indicateurs) pour générer un rapport personnalisé en temps réel. Idéal pour les revues hebdomadaires ou mensuelles.*
 
 ---
 
 ### 3️⃣ **Export PowerPoint automatique**
-![PowerPoint](lien_vers_ton_gif_powerpoint.gif)
+![PowerPoint](./Gifs/PowerPoint_Automatique.gif)
 *Export des données filtrées vers PowerPoint : mise en forme automatique des slides avec indicateurs et graphiques. Gain de temps : **87% de réduction** (de 8h à 1h/mois).*
 
 ---
