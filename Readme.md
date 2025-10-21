@@ -5,7 +5,7 @@
 ---
 
 ## 📌 **Fonctionnalités clés**
-- **Tableaux de bord dynamiques** : Suivi en temps réel des **60 indicateurs** (productivité, absences, retards, etc.).
+- **Tableaux de bord dynamiques** : Suivi en temps réel des **60 indicateurs** (productivité, absences, Activités, etc.).
 - **Filtres avancés** : Par année, semaine, statut (Statutaires/Apprentis/Intérimaires) et compétences.
 - **Reporting à la demande** : Génération instantanée de rapports personnalisés.
 - **Export PowerPoint automatique** : Création de présentations standardisées en **1 clic**.
@@ -15,7 +15,7 @@
 ## 🎬 **Démonstrations visuelles**
 
 ### 1️⃣ **Tableau de bord dynamique**
-![Tableau de bord](lien_vers_ton_gif_tableau_de_bord.gif)
+![Tableau de bord](./Gifs/Tableau de bord.gif)
 *Filtres interactifs pour analyser les performances par site (DCRC EST, Nancy, Mulhouse, etc.). Les barres colorées (rouge/jaune/vert) permettent une lecture immédiate des écarts par rapport aux objectifs.*
 
 ---
