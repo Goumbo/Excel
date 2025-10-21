@@ -21,7 +21,7 @@
 ---
 
 ### 2️⃣ **Reporting à la demande**
-![Reporting](./Gifs/Reporting_à_la_Demande.gif
+![Reporting](./Gifs/Reporting_à_la_Demande.gif)
 *Sélection des critères (période, site, indicateurs) pour générer un rapport personnalisé en temps réel. Idéal pour les revues hebdomadaires ou mensuelles.*
 
 ---
@@ -33,7 +33,7 @@
 ---
 
 ## 💡 **Impact et résultats**
-- **15+ utilisateurs** : Pilotes régionaux et nationaux chez EDF.
+- **45+ utilisateurs** : Pilotes régionaux, CODIR, CODIR Elargie, Responsable d'équipes et Equipe POTR chez EDF.
 - **Standardisation** : Format unique pour les revues de performance sur **8 sites**.
 - **Efficacité** : Automatisation des tâches répétitives (reporting, mise à jour des indicateurs).
 
