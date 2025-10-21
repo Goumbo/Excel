@@ -15,7 +15,7 @@
 ## 🎬 **Démonstrations visuelles**
 
 ### 1️⃣ **Tableau de bord dynamique**
-![Tableau de bord](./Gifs/tableau_de_bord.gif)
+![Tableau de bord](./Gifs/Tableau_de_Bord.gif)
 *Filtres interactifs pour analyser les performances par site (DCRC EST, Nancy, Mulhouse, etc.). Les barres colorées (rouge/jaune/vert) permettent une lecture immédiate des écarts par rapport aux objectifs.*
 
 ---
