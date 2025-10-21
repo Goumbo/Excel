@@ -51,15 +51,8 @@ Les données présentées dans les GIFs sont **fictives** ou anonymisées. Les n
 
 ---
 
-## 📂 **Structure du projet**
-*(Optionnel : si tu veux décrire l’organisation des fichiers dans ton dépôt)*
-- `/gifs/` : Démonstrations visuelles des fonctionnalités.
-- `/captures/` : Images statiques des tableaux de bord.
-- `README.md` : Documentation complète.
-
----
-
 ## 📩 **Contact**
 Pour toute question ou collaboration :
-- **LinkedIn** : [Ton profil](lien_vers_ton_linkedin)
-- **Email** : ton.email@example.com
+- **GitHub** : [@Goumbo](https://github.com/Goumbo)
+- **LinkedIn** : [Jérôme Loriquet](https://www.linkedin.com/in/jeromelanaro/)
+- **Email** : [jerome.github@loriquet.fr](mailto:jerome.github@loriquet.fr)
