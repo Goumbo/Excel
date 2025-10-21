@@ -54,5 +54,5 @@ Les données présentées dans les GIFs sont **fictives** ou anonymisées. Les n
 ## 📩 **Contact**
 Pour toute question ou collaboration :
 - **GitHub** : [@Goumbo](https://github.com/Goumbo)
-- **LinkedIn** : [Jérôme Loriquet](https://www.linkedin.com/in/jeromelanaro/)
+- **LinkedIn** : [Jérôme Lanaro](https://www.linkedin.com/in/jeromelanaro/)
 - **Email** : [jerome.github@loriquet.fr](mailto:jerome.github@loriquet.fr)
